@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Adafruit_DRV8871_Breakout
+D DRV8871 breakout board from Adafruit
+$ENDCMP
+#
+$CMP VM
+D Power symbol creates a global label with name "VM"
+K power-flag
+$ENDCMP
+#
+#End Doc Library

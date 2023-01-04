@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Buggy_Footprints")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Buggy_Footprints.pretty")(options "")(descr ""))
+)
