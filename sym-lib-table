@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Buggy_Components")(type "Legacy")(uri "${KIPRJMOD}/Libraries/Buggy_Components/Buggy_Components.lib")(options "")(descr ""))
+  (lib (name "mikoto")(type "KiCad")(uri "${KIPRJMOD}/Libraries/mikoto/mikoto.kicad_sym")(options "")(descr ""))
 )
